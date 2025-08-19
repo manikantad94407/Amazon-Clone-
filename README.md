@@ -30,7 +30,7 @@ This project was created as part of my web development learning.
 ## 📁 Tech Used
 
 - **HTML** – For structuring the webpage
-- **CSS3** - For styling and layout
+- **CSS** - For styling and layout
 - **Font Awesome** – For icons used in the navbar and other sections (via CDN)
 - No JavaScript used
 
