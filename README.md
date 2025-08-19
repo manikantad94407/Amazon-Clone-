@@ -43,7 +43,6 @@ amazon-clone/
 ├── amazon_clone_1.png
 ├── amazon_clone_2.png
 ├── amazon_logo.png
-├── hero_image.jpg
 ├── box1_image.jpg
 ├── box2_image.jpg
 ├── box3_image.jpg
@@ -52,6 +51,7 @@ amazon-clone/
 ├── box6_image.jpg
 ├── box7_image.jpg
 ├── box8_image.jpg
+├──hero_image.jpg
 └── index.html
 └── Style.css
 
